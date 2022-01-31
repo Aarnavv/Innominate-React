@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/Innominate-React/static/css/main.8b43e738.css",
+    "main.js": "/Innominate-React/static/js/main.794d7cf4.js",
+    "static/media/jan22.png": "/Innominate-React/static/media/jan22.c3b1a974d5b575c38efa.png",
+    "static/media/header4.png": "/Innominate-React/static/media/header4.e31621a5d86b206b219e.png",
+    "static/media/jaiveer.png": "/Innominate-React/static/media/jaiveer.649f6e2a1cf5c18f1041.png",
+    "static/media/sept21.png": "/Innominate-React/static/media/sept21.fdba213964a406d9e1f0.png",
+    "static/media/aug21.png": "/Innominate-React/static/media/aug21.09769dc195e5dfcbcb1f.png",
+    "static/media/july21.png": "/Innominate-React/static/media/july21.af98b43ee3faf30502a8.png",
+    "static/media/june21.png": "/Innominate-React/static/media/june21.61ba11071a21fabe8ce8.png",
+    "static/media/oct21.png": "/Innominate-React/static/media/oct21.ed0a6229fbcbfc881f70.png",
+    "static/media/winter21.jpeg": "/Innominate-React/static/media/winter21.fbab943a251b78c35b2c.jpeg",
+    "static/media/mehul.jpeg": "/Innominate-React/static/media/mehul.5ab37740902ef8443368.jpeg",
+    "static/media/cover3.png": "/Innominate-React/static/media/cover3.4ce7b5f39cc9b6368b7f.png",
+    "static/media/shoumik.jpeg": "/Innominate-React/static/media/shoumik.568bdb8f11b031db1cb2.jpeg",
+    "static/media/header3.jpeg": "/Innominate-React/static/media/header3.9892aa7d7a74e11b4204.jpeg",
+    "static/media/nandini.jpeg": "/Innominate-React/static/media/nandini.daa52f7928050086ff8b.jpeg",
+    "index.html": "/Innominate-React/index.html",
+    "main.8b43e738.css.map": "/Innominate-React/static/css/main.8b43e738.css.map",
+    "main.794d7cf4.js.map": "/Innominate-React/static/js/main.794d7cf4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8b43e738.css",
+    "static/js/main.794d7cf4.js"
+  ]
+}
