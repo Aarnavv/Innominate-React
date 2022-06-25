@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.eacdcd6b.css",
-    "main.js": "/static/js/main.4fc3db79.js",
+    "main.css": "/static/css/main.6a81cee1.css",
+    "main.js": "/static/js/main.a1988946.js",
     "static/media/feb22.png": "/static/media/feb22.9c9d6686f7ee202361be.png",
     "static/media/jan22.png": "/static/media/jan22.c3b1a974d5b575c38efa.png",
     "static/media/header4.png": "/static/media/header4.e31621a5d86b206b219e.png",
@@ -15,16 +15,17 @@
     "static/media/oct21.png": "/static/media/oct21.ed0a6229fbcbfc881f70.png",
     "static/media/winter21.jpeg": "/static/media/winter21.fbab943a251b78c35b2c.jpeg",
     "static/media/mehul.jpeg": "/static/media/mehul.5ab37740902ef8443368.jpeg",
+    "static/media/niharika.jpeg": "/static/media/niharika.9553d635e06b4aa51886.jpeg",
     "static/media/cover3.png": "/static/media/cover3.4ce7b5f39cc9b6368b7f.png",
     "static/media/shoumik.jpeg": "/static/media/shoumik.568bdb8f11b031db1cb2.jpeg",
     "static/media/header3.jpeg": "/static/media/header3.9892aa7d7a74e11b4204.jpeg",
     "static/media/nandini.jpeg": "/static/media/nandini.daa52f7928050086ff8b.jpeg",
     "index.html": "/index.html",
-    "main.eacdcd6b.css.map": "/static/css/main.eacdcd6b.css.map",
-    "main.4fc3db79.js.map": "/static/js/main.4fc3db79.js.map"
+    "main.6a81cee1.css.map": "/static/css/main.6a81cee1.css.map",
+    "main.a1988946.js.map": "/static/js/main.a1988946.js.map"
   },
   "entrypoints": [
-    "static/css/main.eacdcd6b.css",
-    "static/js/main.4fc3db79.js"
+    "static/css/main.6a81cee1.css",
+    "static/js/main.a1988946.js"
   ]
 }
